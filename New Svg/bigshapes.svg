@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1950" height="996" viewBox="0 0 1950 996">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.805" cy="0.72" r="0.753" gradientTransform="matrix(1, 0, 0, 2.885, 0, -0.682)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#12fb8e" stop-opacity="0"/>
+      <stop offset="0.347" stop-color="#11ec84" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#0ec36a"/>
+    </radialGradient>
+    <filter id="Rectangle_6" x="0" y="0" width="1950" height="996" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_29" data-name="Group 29" transform="translate(1935 971) rotate(180)">
+    <g transform="matrix(-1, 0, 0, -1, 1935, 971)" filter="url(#Rectangle_6)">
+      <rect id="Rectangle_6-2" data-name="Rectangle 6" width="1920" height="966" transform="translate(1935 971) rotate(180)" fill="url(#radial-gradient)"/>
+    </g>
+  </g>
+</svg>

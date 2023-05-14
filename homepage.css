@@ -1,0 +1,1375 @@
+/*Headding_Design*/
+.head{
+    margin-top: -15px;
+    margin-left: -25px;
+}
+.logo {
+    font-size: 50px;
+    margin-top: -205px;
+    margin-left: 50px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif; sans-serif;
+    font-weight: 550;
+    text-shadow: 0px 3px 6px rgba(0,0,0, 0.3) ;
+    color: white;
+    text-decoration: none;
+}
+.headtext{
+    font-size: 60px;
+    margin-top: -125px;
+    margin-left: 500px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif; sans-serif;
+    font-weight: 550;
+    text-shadow: 0px 3px 6px rgba(0,0,0, 0.2) ;
+    color: white;
+    text-decoration: none;
+}
+.address{
+    font-size: 30px;
+    margin-top: -60px;
+    margin-left: 500px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-decoration: none;
+}
+.followus{
+    font-size: 30px;
+    margin-left: 1550px;
+    margin-top: -130px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-decoration: none;
+}
+.social{
+    margin-left: 1475px;
+    margin-top: -15px;
+}
+.social img{
+    padding-left: 15px;
+}
+.nev{
+    margin-top: 15px;
+}
+.div01{
+    background-color: rgba(0, 0, 0, 0.1);
+    width: 1930px;
+    height: 39px;
+    margin-top: 36px;
+    padding-top: 11px;
+
+}
+.div01 p{
+    display: inline;
+    margin-left: 80px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+    position: absolute;
+    margin-top: 0px;
+}
+.div01 :hover{
+    font-weight: bold;
+    color: #008B42;
+}
+.div01 :active{
+    color: white;
+}
+.textorder{
+    margin-left: 150px;
+}
+/*Headding_disign*/
+.fastphoto{
+    margin-left: -25px;
+    margin-top: -90px;
+}
+.photo1{
+    position: absolute;
+    right: 0px;
+    top: 247px;
+    width: 931px;
+    height: 487px;
+}
+.fastheaddingtext{
+    font-size: 50px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    top: 260px;
+    left: 15px;
+    color: white;
+    line-height: 1.5;
+    font-weight: 500;
+}
+.contact{
+    width: 275px;
+    height: 63px;
+    background-color: white;
+    box-shadow: 0px 5px 6px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    position: absolute;
+    top: 500px;
+    left: 15px;
+}
+.contact p{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 35px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: #AE19FA;
+}
+.howcan{
+    width: 432px;
+    height: 63px;
+    background-color: white;
+    box-shadow: 0px 5px 6px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    position: absolute;
+    top: 500px;
+    left: 370px;
+}
+.howcan p{
+    text-align: center;
+    margin-top: 13px;
+    font-size: 30px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    color: #AE19FA;
+}
+
+
+.ifyou{
+    font-size: 35px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    left: 15px;
+    font-weight: 100;
+    top: 780px;
+}
+
+
+
+/*If you want to know more details about us then you can click on the below options.*/
+
+
+.aboutus{
+    width: 574px;
+    height: 352px;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.4);
+    display: inline-block;
+    margin-top: 210px;
+    margin-left: 15px;
+}
+.aboutus img{
+    width: 574px;
+    height: 352px;
+}
+.aboutus div{
+    height: 30px;
+    width: 574px;
+    height: 60px;
+    background-color: rgba(14, 195, 106, 0.6);
+    position: absolute;
+    border-radius: 0px 0px 15px 15px ;
+    top: 1167px;
+}
+.aboutus div p{
+    opacity: 1;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 9px;
+    font-weight: 500;
+    color: white;
+}
+
+.storage{
+    width: 574px;
+    height: 352px;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.4);
+    display: inline-block;
+    margin-top: 210px;
+    margin-left: 15px;
+}
+.storage img{
+    width: 574px;
+    height: 352px;
+}
+.storage div{
+    height: 30px;
+    width: 574px;
+    height: 60px;
+    background-color: rgba(14, 195, 106, 0.6);
+    position: absolute;
+    border-radius: 0px 0px 15px 15px ;
+    top: 1167px;
+}
+.storage div p{
+    opacity: 1;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 9px;
+    font-weight: 500;
+    color: white;
+}
+
+.benefits{
+    width: 584px;
+    height: 352px;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.4);
+    display: inline-block;
+    margin-top: 2px;
+    margin-left: 15px;
+}
+.benefits img{
+    width: 584px;
+    height: 352px;
+}
+.benefits div{
+    height: 30px;
+    width: 584px;
+    height: 60px;
+    background-color: rgba(14, 195, 106, 0.6);
+    position: absolute;
+    border-radius: 0px 0px 15px 15px ;
+    top: 1167px;
+}
+.benefits div p{
+    opacity: 1;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 9px;
+    font-weight: 500;
+    color: white;
+}
+.us{
+    font-size: 50px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: #AE19FA;
+}
+.aboutustext{
+    font-size: 30px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    margin-left: 15px;
+    line-height: 1.5;
+}
+.readmore{
+    width: 1920px;
+    height: 486px;
+}
+.shaps2{
+    margin-left: -25px;
+}
+
+
+
+/*Contact_Now_Read_more*/
+
+
+
+.contactnow{
+    width: 390px;
+    height: 417px;
+    border-radius: 15px;
+    position: absolute;
+    background-color: white;
+    top: 1695px;
+    left: 25px;
+}
+.contacttext{
+    height: 80px;
+    background-color: #E5E5E5;
+    border-radius: 0px 0px 15px 15px;
+    margin-top: 148px;
+    position: relative;
+}
+.contacttext p{
+    text-decoration: none;
+    color: black;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    position: absolute;
+    right: 125px;
+}
+.contactsvg{
+    margin-top: 50px;
+    margin-left: 115px;
+}
+.number1{
+    height: 60px;
+    width: 60px;
+    background-color: #0EC36A;
+    border-radius: 50%;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    display: inline-block;
+}
+.number1 p{
+    color: white;
+    position: absolute;
+    right: 22px;
+    top: -17px;
+    font-size: 30px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+}
+.nowtext{
+    font-size: 30px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    position: absolute;
+    top: 160px;
+    left: 10px;
+}
+.please{
+    font-size: 22px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    top: 215px;
+    left: 10px;
+    line-height: 1.5;
+}
+
+
+
+/*Contact_Now_Read_more*/
+
+
+.packdiv{
+    width: 390px;
+    height: 417px;
+    border-radius: 15px;
+    position: absolute;
+    background-color: white;
+    top: 1695px;
+    left: 485px;
+}
+.packtext{
+    height: 80px;
+    background-color: #E5E5E5;
+    border-radius: 0px 0px 15px 15px;
+    margin-top: 148px;
+    position: relative;
+}
+.packtext p{
+    text-decoration: none;
+    color: black;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    position: absolute;
+    right: 125px;
+}
+.packsvg{
+    margin-top: 50px;
+    margin-left: 115px;
+}
+.number2{
+    height: 60px;
+    width: 60px;
+    background-color: #0EC36A;
+    border-radius: 50%;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    display: inline-block;
+}
+.number2 p{
+    color: white;
+    position: absolute;
+    right: 22px;
+    top: -17px;
+    font-size: 30px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+}
+.packtext{
+    font-size: 30px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    position: absolute;
+    top: 190px;
+    left: 0px;
+    width: 390px;
+}
+.packtext p{
+ text-align: center;
+ position: absolute;
+ text-decoration: none;
+}
+.packtext1{
+    font-size: 30px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    position: absolute;
+    top: 163px;
+    left: 10px;
+    width: 390px;
+}
+.youwill{
+    font-size: 22px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    top: 215px;
+    left: 10px;
+    line-height: 1.5;
+}
+
+
+
+
+
+
+
+.pickdiv{
+    width: 390px;
+    height: 417px;
+    border-radius: 15px;
+    position: absolute;
+    background-color: white;
+    top: 1695px;
+    left: 935px;
+}
+.picktext{
+    height: 80px;
+    background-color: #E5E5E5;
+    border-radius: 0px 0px 15px 15px;
+    margin-top: 148px;
+    position: relative;
+}
+.picktext p{
+    text-decoration: none;
+    color: black;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    position: absolute;
+    right: 125px;
+}
+.picksvg{
+    margin-top: 50px;
+    margin-left: 115px;
+}
+.number3{
+    height: 60px;
+    width: 60px;
+    background-color: #0EC36A;
+    border-radius: 50%;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    display: inline-block;
+}
+.number3 p{
+    color: white;
+    position: absolute;
+    right: 22px;
+    top: -17px;
+    font-size: 30px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+}
+.picktext{
+    font-size: 30px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    position: absolute;
+    top: 190px;
+    left: 0px;
+    width: 390px;
+}
+.picktext p{
+ text-align: center;
+ position: absolute;
+ text-decoration: none;
+}
+.picktext1{
+    font-size: 30px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    position: absolute;
+    top: 163px;
+    left: 10px;
+    width: 390px;
+}
+.weprovide{
+    font-size: 22px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    top: 215px;
+    left: 10px;
+    line-height: 1.5;
+}
+
+
+
+
+
+
+.storagediv{
+    width: 390px;
+    height: 417px;
+    border-radius: 15px;
+    position: absolute;
+    background-color: white;
+    top: 1695px;
+    left: 1390px;
+}
+.storagetext{
+    height: 80px;
+    background-color: #E5E5E5;
+    border-radius: 0px 0px 15px 15px;
+    margin-top: 148px;
+    position: relative;
+}
+.storagetext p{
+    text-decoration: none;
+    color: black;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    position: absolute;
+    right: 125px;
+}
+.storagesvg{
+    margin-top: 50px;
+    margin-left: 115px;
+}
+.number4{
+    height: 60px;
+    width: 60px;
+    background-color: #0EC36A;
+    border-radius: 50%;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    display: inline-block;
+}
+.number4 p{
+    color: white;
+    position: absolute;
+    right: 22px;
+    top: -17px;
+    font-size: 30px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+}
+.storagetext{
+    font-size: 30px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    position: absolute;
+    top: 190px;
+    left: 0px;
+    width: 390px;
+}
+.storagetext p{
+ text-align: center;
+ position: absolute;
+ text-decoration: none;
+}
+.storagetext1{
+    font-size: 30px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    position: absolute;
+    top: 163px;
+    left: 10px;
+    width: 390px;
+}
+.weprovideyou{
+    font-size: 22px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    top: 215px;
+    left: 10px;
+    line-height: 1.5;
+}
+
+
+
+
+
+
+.faqtext{
+    font-size: 50px;
+    color: #AE19FA;
+    text-decoration: underline;
+    text-align: center;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+.faqt{
+    background-color: rgb(255, 255, 255);
+    width: 842px;
+    height: 53px;
+    border-radius: 15px;
+    margin-top: 25px;
+    margin-left: 925px;
+    position: absolute;
+    font-size: 25px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    color: gray;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.storecategory{
+    font-size: 50px;
+    color: #AE19FA;
+    text-decoration: underline;
+    text-align: center;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+
+
+
+
+.housegoods{
+    width: 380px;
+    height: 380px;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    margin-top: -433px;
+    margin-left: 25px;
+    overflow: hidden;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.3);
+}
+.houselogo{
+    margin-left: 118px;
+    margin-top: 35px;
+}
+.housetext{
+    font-size: 30px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+.read01{
+    width: 380px;
+    height: 65px;
+    background-color: #E3E3E3;
+    position: absolute;
+    bottom: 0px;
+    text-align: center;
+}
+.read01 p{
+    font-size: 30px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    margin-top: 10px;
+    color: black;
+}
+.read01 :hover{
+    color: rgb(97, 97, 97);
+}
+
+
+
+.businessgoods{
+    width: 380px;
+    height: 380px;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    margin-top: -380px;
+    margin-left: 475px;
+    overflow: hidden;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.3);
+}
+.businesslogo{
+    margin-left: 118px;
+    margin-top: 35px;
+}
+.businesstext{
+    font-size: 30px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+.read02{
+    width: 380px;
+    height: 65px;
+    background-color: #E3E3E3;
+    position: absolute;
+    bottom: 0px;
+    text-align: center;
+}
+.read02 p{
+    font-size: 30px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    margin-top: 10px;
+    color: black;
+}
+.read02 :hover{
+    color: rgb(97, 97, 97);
+}
+
+
+
+.vehicalsgoods{
+    width: 380px;
+    height: 380px;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    margin-top: -380px;
+    margin-left: 930px;
+    overflow: hidden;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.3);
+}
+.vehicalslogo{
+    margin-left: 75px;
+    margin-top: 50px;
+}
+.vehicalstext{
+    font-size: 30px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+.read03{
+    width: 380px;
+    height: 65px;
+    background-color: #E3E3E3;
+    position: absolute;
+    bottom: 0px;
+    text-align: center;
+}
+.read03 p{
+    font-size: 30px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    margin-top: 10px;
+    color: black;
+}
+.read03 :hover{
+    color: rgb(97, 97, 97);
+}
+
+
+
+.othergoods{
+    width: 380px;
+    height: 380px;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    margin-top: -380px;
+    margin-left: 1380px;
+    overflow: hidden;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.3);
+}
+.otherlogo{
+    margin-left: 110px;
+    margin-top: 100px;
+}
+.othertext{
+    font-size: 30px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+.read04{
+    width: 380px;
+    height: 65px;
+    background-color: #E3E3E3;
+    position: absolute;
+    bottom: 0px;
+    text-align: center;
+}
+.read04 p{
+    font-size: 30px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    margin-top: 10px;
+    color: black;
+}
+.read04 :hover{
+    color: rgb(97, 97, 97);
+}
+
+
+
+.storageplan{
+    text-align: center;
+    color: #AE19FA;
+    font-size: 50px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+
+
+
+.selfbox{
+    width: 390px;
+    height: 417px;
+    position: absolute;
+    background-color: white;
+    border-radius: 15px;
+    margin-left: 65px;
+    margin-top: 45px;
+    z-index: 1;
+    box-shadow: 0px 0px 8px rgba(0,0,0, 0.3);
+    overflow: hidden;
+}
+.self1 {
+    background-color: #0FE17D;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    border-radius: 50%;
+    right: 20px;
+    top: 20px;
+}
+.self1 p{
+    color: white;
+    text-align: center;
+    margin-top: 25%;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    font-size: 35px;
+}
+.selflogo{
+    margin-left: 95px;
+    margin-top: 60px;
+}
+.selftext{
+    text-align: center;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    margin-top: 10px;
+    line-height: 1.5;
+}
+.selfread{
+    width: 390px;
+    height: 85px;
+    background-color: #E5E5E5;
+    position: absolute;
+    margin-top: -10px;
+}
+.selfread p{
+    font-size: 30px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    margin-top: 18px;
+}
+.selfread :hover{
+    color: rgb(138, 138, 138);
+}
+
+
+
+
+.businessbox{
+    width: 390px;
+    height: 417px;
+    position: absolute;
+    background-color: white;
+    border-radius: 15px;
+    margin-left: 500px;
+    margin-top: 45px;
+    z-index: 1;
+    box-shadow: 0px 0px 8px rgba(0,0,0, 0.3);
+    overflow: hidden;
+}
+.business1 {
+    background-color: #0FE17D;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    border-radius: 50%;
+    right: 20px;
+    top: 20px;
+}
+.business1 p{
+    color: white;
+    text-align: center;
+    margin-top: 25%;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    font-size: 35px;
+}
+.businesslogo{
+    margin-left: 135px;
+    margin-top: 60px;
+}
+.businesstext{
+    text-align: center;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    margin-top: 10px;
+    line-height: 1.5;
+}
+.businessread{
+    width: 390px;
+    height: 83px;
+    background-color: #E5E5E5;
+    position: absolute;
+}
+.businessread p{
+    font-size: 30px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    margin-top: 18px;
+}
+.businessread :hover{
+    color: rgb(138, 138, 138);
+}
+
+
+
+
+
+.sherebox{
+    width: 390px;
+    height: 417px;
+    position: absolute;
+    background-color: white;
+    border-radius: 15px;
+    margin-left: 65px;
+    margin-top: 505px;
+    z-index: 1;
+    box-shadow: 0px 0px 8px rgba(0,0,0, 0.3);
+    overflow: hidden;
+}
+.shere1 {
+    background-color: #0FE17D;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    border-radius: 50%;
+    right: 20px;
+    top: 20px;
+}
+.shere1 p{
+    color: white;
+    text-align: center;
+    margin-top: 25%;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    font-size: 35px;
+}
+.sherelogo{
+    margin-left: 125px;
+    margin-top: 60px;
+}
+.sheretext{
+    text-align: center;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    margin-top: 10px;
+    line-height: 1.5;
+}
+.shereread{
+    width: 390px;
+    height: 85px;
+    background-color: #E5E5E5;
+    position: absolute;
+    margin-top: -10px;
+}
+.shereread p{
+    font-size: 30px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    margin-top: 22px;
+}
+.shereread :hover{
+    color: rgb(138, 138, 138);
+}
+
+
+
+
+.privetbox{
+    width: 390px;
+    height: 417px;
+    position: absolute;
+    background-color: white;
+    border-radius: 15px;
+    margin-left: 500px;
+    margin-top: 505px;
+    z-index: 1;
+    box-shadow: 0px 0px 8px rgba(0,0,0, 0.3);
+    overflow: hidden;
+}
+.privet1 {
+    background-color: #0FE17D;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    border-radius: 50%;
+    right: 20px;
+    top: 20px;
+}
+.privet1 p{
+    color: white;
+    text-align: center;
+    margin-top: 25%;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    font-size: 35px;
+}
+.privetlogo{
+    margin-left: 125px;
+    margin-top: 60px;
+}
+.privettext{
+    text-align: center;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    margin-top: 10px;
+    line-height: 1.5;
+}
+.privetread{
+    width: 390px;
+    height: 85px;
+    background-color: #E5E5E5;
+    position: absolute;
+}
+.privetread p{
+    font-size: 30px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    margin-top: 22px;
+}
+.privetread :hover{
+    color: rgb(138, 138, 138);
+}
+
+
+
+
+
+.pp{
+    width: 842px;
+    height: 880px;
+    background-color: white;
+    position: absolute;
+    z-index: 1;
+    right: 28px;
+    margin-top: 45px;
+    border-radius: 25px;
+    box-shadow: 0px 0px 5px rgba(0,0,0, 0.3);
+    overflow: hidden;
+}
+.privacy{
+    background-color: #E5E5E5;
+    width: 842px;
+    height: 96px;
+    text-align: center;
+    color: black;
+    font-size: 40px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    position: absolute;
+}
+
+
+.lockicon{
+    margin-top: 145px;
+    margin-left: 35px;
+}
+.locktext{
+    margin-top: -60px;
+    margin-left: 120px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 30px;
+}
+.lockt{
+    margin-top: -25px;
+    margin-left: 120px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 25px;
+}
+
+
+
+.secureicon{
+    margin-top: 45px;
+    margin-left: 35px;
+}
+.securetext{
+    margin-top: -60px;
+    margin-left: 120px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 30px;
+}
+.securet{
+    margin-top: -25px;
+    margin-left: 120px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 25px;
+}
+
+
+.clenicon{
+    margin-top: 45px;
+    margin-left: 35px;
+}
+.clentext{
+    margin-top: -60px;
+    margin-left: 120px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 30px;
+}
+.clent{
+    margin-top: -25px;
+    margin-left: 120px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 25px;
+}
+
+
+.writeicon{
+    margin-top: 45px;
+    margin-left: 35px;
+}
+.writetext{
+    margin-top: -60px;
+    margin-left: 120px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 30px;
+}
+.writet{
+    margin-top: -25px;
+    margin-left: 120px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 25px;
+}
+.googler{
+    width: 1580px;
+    height: 370px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px;
+    box-shadow: 0px 0px 5px rgba(0,0,0, 0.5);
+    margin-left: 115px;
+}
+
+.location{
+    text-align: center;
+    color: #AE19FA;
+    font-size: 50px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.footer{
+    margin-left: -25px;
+    margin-bottom: -100px;
+}
+
+
+.locicon{
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 85px;
+}
+.addresstext{
+    position: absolute;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    color: white;
+    margin-top: 60px;
+    margin-left: 80px;
+}
+.addtext{
+    position: absolute;
+    font-size: 25px;
+    color: white;
+    margin-top: 110px;
+    margin-left: 140px;
+    line-height: 1.5;
+}
+
+.phonediv{
+    margin-left: 450px;
+}
+.phoneicon{
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 85px;
+}
+.phonetext{
+    position: absolute;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    color: white;
+    margin-top: 60px;
+    margin-left: 80px;
+}
+.phonet{
+    position: absolute;
+    font-size: 25px;
+    color: white;
+    margin-top: 50px;
+    margin-top: 110px;
+    margin-left: 158px;
+    line-height: 1.5;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.emaildiv{
+    margin-left: 850px;
+}
+.emailicon{
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 85px;
+}
+.emailtext{
+    position: absolute;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    color: white;
+    margin-top: 60px;
+    margin-left: 80px;
+}
+.emailt{
+    position: absolute;
+    font-size: 25px;
+    color: white;
+    margin-top: 50px;
+    margin-top: 110px;
+    margin-left: 182px;
+    line-height: 1.5;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+
+.socialmediafooter{
+    margin-top: -50px;
+    margin-left: 1450px;
+}
+.followusfooter{
+    font-size: 40px;
+    margin-left: 50px;
+    margin-top: -190px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-weight: bold;
+}
+.socialmediafooter a{
+    margin-left: 15px;
+}
+.icons{
+    margin-top: -25px;
+}
+.lasttext{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    margin-top: 75px;
+    text-shadow: 0px 3px 5px rgba(0,0,0, 0.3);
+}

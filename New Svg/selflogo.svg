@@ -1,0 +1,47 @@
+<svg id="Untitled-1" xmlns="http://www.w3.org/2000/svg" width="172.53" height="152.72" viewBox="0 0 172.53 152.72">
+  <g id="box-package-icon" transform="translate(18.339 0)">
+    <path id="Path_24" d="M172.01,20.62a3.414,3.414,0,0,1,2.4.43,3.352,3.352,0,0,1,2.08,3.1l.7,97.97a3.315,3.315,0,0,1-1.64,3.05l-40.01,23.87a3.374,3.374,0,0,1-2.03.68,2.468,2.468,0,0,1-.54-.05L29.14,138.13a3.351,3.351,0,0,1-3.21-3.36V35.13h0a3.37,3.37,0,0,1,2.02-3.19L80.04,9.04h0a3.366,3.366,0,0,1,1.8-.26l90.17,11.84ZM136.9,50.45V140.4l33.56-20.02-.65-90.67Zm-6.76,92.13V51.4L85.86,45.75,84.4,88.06,68.85,77.47,53.3,86.26,56.52,42,32.69,38.96v92.79l97.45,10.83ZM123.14,21,90.47,39.54l42.49,5.42L162.74,26.2,123.14,21ZM60.68,35.74,92.34,16.96,81.9,15.6,41.6,33.32l19.08,2.42Z" transform="translate(-25.929 -8.752)"/>
+  </g>
+  <g id="Group_38" data-name="Group 38" transform="translate(131.71 119.413)">
+    <g id="Group_37" data-name="Group 37">
+      <line id="Line_9" data-name="Line 9" y1="19.87" x2="33.14" transform="translate(3.84 2.3)" fill="none" stroke="#010101" stroke-miterlimit="10" stroke-width="0.75"/>
+      <g id="Group_35" data-name="Group 35" transform="translate(0 18.7)">
+        <path id="Path_32" data-name="Path 32" d="M146.37,151.64l-2.44-1.78-.41-2.99-4.22,5.77Z" transform="translate(-139.3 -146.87)" fill="#010101"/>
+      </g>
+      <g id="Group_36" data-name="Group 36" transform="translate(33.75)">
+        <path id="Path_33" data-name="Path 33" d="M175.9,133.94l-.41-2.99-2.44-1.78,7.07-1Z" transform="translate(-173.05 -128.17)" fill="#010101"/>
+      </g>
+    </g>
+  </g>
+  <g id="Group_42" data-name="Group 42" transform="translate(20.82 131.813)">
+    <g id="Group_41" data-name="Group 41">
+      <line id="Line_10" data-name="Line 10" x2="90.63" y2="10.29" transform="translate(4.45 2.52)" fill="none" stroke="#010101" stroke-miterlimit="10" stroke-width="0.75"/>
+      <g id="Group_39" data-name="Group 39">
+        <path id="Path_34" data-name="Path 34" d="M34.64,146.08l-.86-2.89,1.49-2.62-6.86,2.01Z" transform="translate(-28.41 -140.57)" fill="#010101"/>
+      </g>
+      <g id="Group_40" data-name="Group 40" transform="translate(92.68 9.81)">
+        <path id="Path_35" data-name="Path 35" d="M121.09,155.9l1.48-2.63-.86-2.89,6.23,3.5Z" transform="translate(-121.09 -150.38)" fill="#010101"/>
+      </g>
+    </g>
+  </g>
+  <g id="Group_46" data-name="Group 46" transform="translate(9.93 26.983)">
+    <g id="Group_45" data-name="Group 45">
+      <line id="Line_11" data-name="Line 11" y2="88.14" transform="translate(2.77 4.48)" fill="none" stroke="#010101" stroke-miterlimit="10" stroke-width="0.75"/>
+      <g id="Group_43" data-name="Group 43">
+        <path id="Path_36" data-name="Path 36" d="M17.52,42.33l2.77-1.18,2.78,1.18-2.78-6.59Z" transform="translate(-17.52 -35.74)" fill="#010101"/>
+      </g>
+      <g id="Group_44" data-name="Group 44" transform="translate(0 90.51)">
+        <path id="Path_37" data-name="Path 37" d="M17.52,126.25l2.77,1.18,2.78-1.18-2.78,6.59Z" transform="translate(-17.52 -126.25)" fill="#010101"/>
+      </g>
+    </g>
+  </g>
+  <g id="Group_47" data-name="Group 47" transform="translate(146.346 125.017)">
+    <text id="_2_Fit" data-name="2 Fit" transform="matrix(0.858, -0.514, 0.514, 0.858, 5.144, 18.863)" fill="#010101" font-size="10" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">2 Fit</tspan></text>
+  </g>
+  <g id="Group_48" data-name="Group 48" transform="translate(57.026 137.654)">
+    <text id="_3_Fit" data-name="3 Fit" transform="translate(0.321 9.942) rotate(6.148)" fill="#010101" font-size="10" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">3 Fit</tspan></text>
+  </g>
+  <g id="Group_49" data-name="Group 49" transform="translate(0 60.465)">
+    <text id="_4_Fit" data-name="4 Fit" transform="translate(10 20.1) rotate(-89.428)" fill="#010101" font-size="10" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">4 Fit</tspan></text>
+  </g>
+</svg>
